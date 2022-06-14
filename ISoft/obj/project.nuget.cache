@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "79fn0s9gCCNO5yTwD5E+G0Cbpu1NFx3IiuED363Rpe0vPFteW8kSu/gaXmaVyYpeE6rVBb+WVsh613zLv7AbAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Git\\ISoft\\ISoft\\ISoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lutiell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

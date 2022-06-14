@@ -1,0 +1,14 @@
+D:\Projetos\Git\ISoft\ISoft\bin\Debug\netcoreapp3.1\ISoft.exe
+D:\Projetos\Git\ISoft\ISoft\bin\Debug\netcoreapp3.1\ISoft.deps.json
+D:\Projetos\Git\ISoft\ISoft\bin\Debug\netcoreapp3.1\ISoft.runtimeconfig.json
+D:\Projetos\Git\ISoft\ISoft\bin\Debug\netcoreapp3.1\ISoft.runtimeconfig.dev.json
+D:\Projetos\Git\ISoft\ISoft\bin\Debug\netcoreapp3.1\ISoft.dll
+D:\Projetos\Git\ISoft\ISoft\bin\Debug\netcoreapp3.1\ISoft.pdb
+D:\Projetos\Git\ISoft\ISoft\obj\Debug\netcoreapp3.1\ISoft.csproj.AssemblyReference.cache
+D:\Projetos\Git\ISoft\ISoft\obj\Debug\netcoreapp3.1\ISoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Git\ISoft\ISoft\obj\Debug\netcoreapp3.1\ISoft.AssemblyInfoInputs.cache
+D:\Projetos\Git\ISoft\ISoft\obj\Debug\netcoreapp3.1\ISoft.AssemblyInfo.cs
+D:\Projetos\Git\ISoft\ISoft\obj\Debug\netcoreapp3.1\ISoft.csproj.CoreCompileInputs.cache
+D:\Projetos\Git\ISoft\ISoft\obj\Debug\netcoreapp3.1\ISoft.dll
+D:\Projetos\Git\ISoft\ISoft\obj\Debug\netcoreapp3.1\ISoft.pdb
+D:\Projetos\Git\ISoft\ISoft\obj\Debug\netcoreapp3.1\ISoft.genruntimeconfig.cache
